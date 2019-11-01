@@ -78,5 +78,4 @@ public class CityList {
         return cities.size();
     }
 
-    public boolean dummyTest() {return false}
 }
